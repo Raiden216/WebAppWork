@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: darkblue !important;
+    box-shadow: 0px 5px 5px darkblue;
+}
+.jumbotron {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    margin-bottom: 0;
+}
+.project-card {
+    margin-bottom: 20px;
+}
+.cv-container {
+    text-align: center;
+}
+.contact-form {
+    margin-top: 50px;
+}
